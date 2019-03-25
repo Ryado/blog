@@ -4,7 +4,7 @@ title: L’équation Algérienne
 subtitle: Une somme de forces vives
 tags: [algérie, opinion]
 comments: false
-image: /img/flag-dz.png
+image: {{ site.baseurl }}/img/flag-dz.png
 ---
 
 {: .box-note}
