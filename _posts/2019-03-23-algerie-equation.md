@@ -24,21 +24,21 @@ Difficile d’estimer la durée et l’impact de la stagnation qu’a vécu L’
 
 Cette stagnation a été la période des énergies annulées. Entreprendre quoi que ce soit, dans quelque domaine qu’il soit, s’est révélé être un challenge souvent insurmontable pour la plupart des individus et des organisations.
 
-Les barrières fixées par les organes de l’état, par le sous-développement, l’administration, le marché, la corruption, les pratiques ou le contexte ont étés des freins surdimensionnés pour l’esprit d’initiative. Monter un projet entrepreneurial, culturel, artistique, politique, personnel ou collectif s’apparentait en amont à un labyrinthe dont personne ne pouvait présumer de la sortie. Le rapport “effort/recompense” souvent défavorable.
+Les barrières fixées par les organes de l’état, le sous-développement, l’administration, le marché, la corruption, les pratiques ou le contexte ont été des freins surdimensionnés pour l’esprit d’initiative. Monter un projet entrepreneurial, culturel, artistique, politique, personnel ou collectif s’apparentait en amont à un labyrinthe dont personne ne pouvait présumer de la sortie. Le rapport “effort/recompense” souvent défavorable.
 
 ![forces annulées]({{ site.baseurl }}/img/forces.001.jpeg)
 
 Je tiens d’ailleurs à présenter mes respects à tout ceux qui ont réussi à produire de la valeur honnêtement dans ce contexte. J’insiste sur le mot honnêtement. 
 Ces individus ont du faire preuve d’une ténacité sans pareil, pour avancer dans la droiture dans une situation où rien n’est droit et tout est contre vous.
 
-Dans cette situation, il a été difficile de faire sens de quoi que ce soit. Ce status quo a poussé à l’exil des millers d’Algériens, qui ont quitté leur pays dans une quête existentielle de sens. Ceux qui ne sont pas parti ont subi, dans la dignité du possible, l’époque des énergies gâchées. Époque où le pays avait le pied sur l’accélérateur tout en omettant de lâcher le frein.
+Dans cette situation, il a été difficile de faire sens de quoi que ce soit. Ce status quo a poussé à l’exil des millers d’Algériens qui ont quitté leur pays dans une quête existentielle de sens. Ceux qui ne sont pas parti ont subi, dans la dignité du possible, l’époque des énergies gâchées. Époque où le pays avait le pied sur l’accélérateur tout en omettant de lâcher le frein.
 
 
 ## Se rassembler pour mieux régner
 
 Depuis bientôt un mois, en mettant de côté nos querelles et différences, nous avons démontré que la seule voie qui compte était celle du collectif. Cette démonstration a fait voler en éclats les idées reçues d’un peuple résigné, absent et inactif. Idées auxquelles tout le monde avait fini par céder, à un moment ou un autre.
 
-Ça ne s’est pas fait en un jour. Depuis le 22 Février, chaque rassemblement a été plus important que le précédent et à fini par fédérer une tranche supplémentaire de sceptiques. Le point commun entre ces rassemblements est que nous avons lâché le lest qui nous retenait en mettant de côté les forces et énergies qui s’annulaient.
+Cela ne s’est pas fait en un jour. Depuis le 22 Février, chaque rassemblement a été plus important que le précédent et a fini par fédérer une tranche supplémentaire de sceptiques. Le point commun entre ces rassemblements est que nous avons lâché le lest qui nous retenait en mettant de côté les forces et énergies qui s’annulaient.
 
 ![Forces convergentes]({{ site.baseurl }}/img/forces.002.jpeg)
 
@@ -52,7 +52,7 @@ Nous avons tout de même pu effleurer des doigts ce que serait l’Algérie qui 
 
 Schématiquement, nous allons forcement passer par deux étapes: une transition et un après.
 
-Pour le bien de tous, les forces divergentes qui nous ont tant retenu devrons rester timides lors de la transition. Quelqu’en soit sa forme, il faut que cette transition prenne le recul nécessaire pour permettre à ces forces de cohabiter dans l’essentiel, c’est à dire l’après. Ce n’est qu’à ce prix que pourra se construire un avenir prospère pour tous.
+Pour le bien de tous, les forces divergentes qui nous ont tant retenus devrons rester timides lors de la transition. Quelqu’en soit sa forme, il faut que cette transition prenne le recul nécessaire pour permettre à ces forces de cohabiter dans l’essentiel, c’est à dire l’après. Ce n’est qu’à ce prix que pourra se construire un avenir prospère pour tous.
 
 
 
